@@ -31,4 +31,4 @@ const eventoSchema = new mongoose.Schema(
 );
 
 export const evento = mongoose.model('ceventos',eventoSchema)
-export default evento;
+export default evento

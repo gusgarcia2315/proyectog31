@@ -13,5 +13,5 @@ app.use('/',router);
 
 
 app.listen(8000, ()=> {
-    console.log('servidor Corriendo en  http://localhost:8000/')
+    console.log('Servidor Corriendo en  http://localhost:8000/')
 })
